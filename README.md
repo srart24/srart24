@@ -29,7 +29,8 @@
 
 
 
-
+lblAnimasi.Move lblAnimasi.Left - 15
+If lblAnimasi.Left < -lblAnimasi.Width Then lblAnimasi.Left = picPanel.Width
 
 
 
