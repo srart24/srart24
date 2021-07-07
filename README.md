@@ -1,6 +1,6 @@
 
 
-# Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 ---------
 
 
@@ -45,7 +45,7 @@ Bingung mo ngetik apa
 
 ---------
 
-|  [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=100)](https://github.com/lordlightness) 
+|  [![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) 
 |------|------|
 | srart_24 | lordlightness |
 
