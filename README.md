@@ -29,9 +29,7 @@
 ---------
 
 
-lblAnimasi.Move lblAnimasi.Left - 15
-If lblAnimasi.Left < -lblAnimasi.Width Then lblAnimasi.Left = picPanel.Width
-
+<marquee scrolldelay="700" title="Ini Muncul Saat Hover" behavior="slide" onmouseover="this.stop()" onmouseout="this.start()"><a href="https://posciety.com" target="_blank">welcome to guthub srart24</a></marquee>
 
 
 
