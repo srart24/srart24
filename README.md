@@ -38,6 +38,18 @@
 
 
 
+#My Team
+```
+Bingung mo ngetik apa
+```
+
+---------
+
+|  [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) 
+|------|------|
+| Instagram | Whatsapp Gw |
+
+---------
 
 
 
