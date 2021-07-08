@@ -19,10 +19,8 @@
 
 # My Team
 ---------
-
-| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/Script BoT-25D366?style=for-the-badge&logo=github&logoColor=white"></a> | 
+| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/Script BoT-25D366?style=for-the-badge&logo=github&logoColor=white&size=50"></a> | 
 |---------|
-
 ---------
 ---------
 
