@@ -6,7 +6,7 @@
 ---------
 
 
-## :link: Social Media
+## Social Media
 ---------
 
 <a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
