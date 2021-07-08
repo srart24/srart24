@@ -19,7 +19,7 @@
 
 # My Team
 ---------
-| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/Script BoT-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 ---------
 ---------
@@ -47,13 +47,6 @@
 </a>
 
 ---------
-
-
-
-
-
-
-
 ---------
 [![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)](https://github.com/srart24/SeTaN-BoT)
 ---------
