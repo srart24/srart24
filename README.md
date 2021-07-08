@@ -22,9 +22,9 @@ Bingung mo ngetik apa
 
 ---------
 
-|  [![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) 
-|------|------|
-| srart_24 | lordlightness |
+|  [![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) |  | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) 
+|------| |------|
+| srart_24 | | lordlightness |
 
 ---------
 
