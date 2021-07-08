@@ -2,7 +2,7 @@
 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=srart24&description=Hi,%20selamat%20datang%20di%20github%20srart24%20&image=https://github.com/srart24.png?v=4&backgroundColor=%23ecf0f1&instagram=srart_24&&youtube=srart_24&&github=srart24&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=srart24&description=Hi,%20selamat%20datang%20di%20github%20srart24%20&image=https://github.com/srart24.png?v=4&backgroundColor=%23ecf0f1&instagram=srart_24&youtube=srart_24&github=srart24&pattern=leaf&colorPattern=%23eaeaea)
 
 ---------
 
