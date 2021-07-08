@@ -46,10 +46,10 @@
 ---------
 ### MY TEAM
 ---------
- 
-| [![Saya](https://github.com/srart24.png?size=500)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=500)](https://github.com/lordlightness) | [![hm](https://github.com/Piubit.png?size=500)](https://github.com/Piubit) | [![lm](https://github.com/lendev0406.png?size=500)](https://github.com/lendev0406) | [![Sya](https://github.com/Jem-Bot.png?size=500)](https://github.com/Jem-Bot) |
+
+| [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=100)](https://github.com/lordlightness) | [![hm](https://github.com/Piubit.png?size=100)](https://github.com/Piubit) | [![lm](https://github.com/lendev0406.png?size=100)](https://github.com/lendev0406) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
-| srart_24 | lordlightness | Piubit | lendev0406 | Jem_Bot |
+| srart_24 | lordlightness | Piubit | lendev0406 | Jem-Bot |
 
 ---------
 
