@@ -29,8 +29,11 @@
 ---------
 
 <p align="center">
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srart24&repo=SeTaN-BoT&theme=highcontrast)](https://github.com/srart24/SeTaN-BoT)
+
 </p>
+
 ---------
 
 | <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
@@ -40,9 +43,11 @@
 ---------
 
 <p align="center">
+  
 |[![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) 
 |------|------|
 | srart_24 | lordlightness |
+
 </p>
 
 ---------
