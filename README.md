@@ -9,7 +9,7 @@
 ---------
 
 | <a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> | <a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF00FF.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> | 
-|------|------|
+|-------------|-------------|
 | <a href="https://m.youtube.com/channel/UCnAXZ_2R4Ijzny0mokihwPA"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> | <a href="https://chat.whatsapp.com/HoGPJ1Sa6024us5PioGWLU"><img src="https://img.shields.io/badge/Grup WhatsApp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"></a> | 
 
 ---------
@@ -19,6 +19,7 @@
 
 # SCRIPT 
 ---------
+
 | <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 ---------
@@ -49,5 +50,5 @@
 
 ---------
 ---------
-[![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)](https://github.com/srart24/SeTaN-BoT)
+![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)
 ---------
