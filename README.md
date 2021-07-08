@@ -6,19 +6,14 @@
 
 ---------
 
+<a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 ---------
 
 ![yay](https://i.ibb.co/d6RkLdQ/20210416-102838.png)
 
 ---------
-
-## Social Media
----------
-
-<a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
---------
 
 # My Team
 
