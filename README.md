@@ -28,6 +28,10 @@
 # SCRIPT 
 ---------
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srart24&repo=SeTaN-BoT&theme=highcontrast)](https://github.com/srart24/SeTaN-BoT)
+
+---------
+
 | <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 ---------
@@ -60,16 +64,6 @@
 ---------
 ![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)
 --------
-
-
-
-
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srart24&repo=SeTaN-BoT&theme=highcontrast)](https://github.com/srart24/SeTaN-BoT)
-
-
-
 
 ## Viewer
 
