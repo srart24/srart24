@@ -28,9 +28,7 @@
 ## Tes
 ---------
 
-
-<marquee scrolldelay="700" title="Ini Muncul Saat Hover" behavior="slide" onmouseover="this.stop()" onmouseout="this.start()"><a href="https://posciety.com" target="_blank">welcome to guthub srart24</a></marquee>
-
+marquee title="Ini Muncul Saat Hover" behavior="alternate" onmouseover="this.stop()" onmouseout="this.start()" direction="right"><a href="https://posciety.com" target="_blank">Ini Tulisan Berjalan</a></marquee>
 
 
 
