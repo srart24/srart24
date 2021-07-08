@@ -49,9 +49,9 @@
 
 <p align="center">
   
-|[![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) 
-|------|------|
-| srart_24 | lordlightness |
+|[![Saya](https://github.com/srart24.png?size=50)](https://github.com/srart24) | [![Hm](https://github.com/lordlightness.png?size=50)](https://github.com/lordlightness) | [![hm](https://github.com/Piubit.png?size=50)](https://github.com/Piubit) |
+|------|------|------|
+| srart_24 | lordlightness | Piubit |
 
 </p>
 
