@@ -59,4 +59,20 @@
 ---------
 ---------
 ![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)
----------
+--------
+
+
+
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srart24&repo=SeTaN-BoT&theme=highcontrast)](https://github.com/srart24/SeTaN-BoT)
+
+
+
+
+## Viewer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srart24&label=VIEWS&style=flat-square&color=blue" />
+</p>
