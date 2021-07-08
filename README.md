@@ -10,8 +10,10 @@
 ---------
 <a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
----------
+--------
+
 # My Team
+
 ```
 Bingung mo ngetik apa
 ```
@@ -26,7 +28,9 @@ Bingung mo ngetik apa
 
 
 ## &#x1f4c8; GitHub Stats
+
 ---------
+
 <a href="https://github.com/srart24/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=srart24&show_icons=true&include_all_commits=true&theme=material-palenight" alt="LordLightness github stats" />
 </a>
@@ -34,6 +38,7 @@ Bingung mo ngetik apa
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" />
 </a>
+
 ---------
 
 
