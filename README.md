@@ -56,5 +56,5 @@ Bingung mo ngetik apa
 
 
 ---------
-![ggwp](https://i.ibb.co/GJhM0sW/electric.gif)
+[![ggwp](https://i.ibb.co/GJhM0sW/electric.gif)(https://github.com/srart24/SeTaN-BoT)]
 ---------
