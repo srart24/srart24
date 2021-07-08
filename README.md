@@ -1,12 +1,10 @@
+### Hello
+
+--------
+
 ![My card name](https://cardivo.vercel.app/api?name=srart&description=Hi,%20selamat%27datang%20a%20di%20guthub%20srart24%20&image=https://github.com/srart24.png?v=4&backgroundColor=%23ecf0f1&instagram=srart_24&github=srart24&pattern=leaf&colorPattern=%23eaeaea)
 
-![](https://visitor-badge.glitch.me/badge?page_id=srart24)
-
-<br>
-<p align='center'>
-   <a href="https://wa.me/18573850781"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-</P>
-
+---------
 
 ### srart24
 
