@@ -55,4 +55,6 @@ Bingung mo ngetik apa
 
 
 
-
+---------
+![ggwp](https://i.ibb.co/GJhM0sW/electric.gif)
+---------
