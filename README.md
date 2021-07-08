@@ -5,7 +5,7 @@
 ![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif)
 
 --------
-
+### SOSIALMEDIA
 ---------
 
 | <a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> | <a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF00FF.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> | 
