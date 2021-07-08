@@ -48,21 +48,15 @@
 ## &#x1f4c8; GitHub Stats
 
 ---------
+
 <p align="center">
 <a href="https://github.com/srart24/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=srart24&show_icons=true&include_all_commits=true&theme=material-palenight" alt="LordLightness github stats" />
 </a>
-</p>
----------
-<p align="center">
 <a href="https://github.com/srart24/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" />
 </a>
-</p>
----------
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=srart24&label=VIEWS&style=flat-square&color=blue" />
 </p>
 
