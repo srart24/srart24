@@ -1,14 +1,11 @@
 ![My card name](https://cardivo.vercel.app/api?name=srart&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2014%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/75620279?v=4&backgroundColor=%23ecf0f1&instagram=srart_24&github=srart24&pattern=leaf&colorPattern=%23eaeaea)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zhirrr)
+![](https://visitor-badge.glitch.me/badge?page_id=srart24)
 
-## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm srart, I'm an 14 y.o Coder
 <br>
 <p align='center'>
    <a href="https://wa.me/18573850781"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
 </P>
-
 ### srart24
 
 ---------
