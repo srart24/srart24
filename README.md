@@ -17,22 +17,6 @@
 
 <p align="center">
   
- ---------
-### SOSIALMEDIA
----------
-
-| <a href="https://wa.me/6287797925690"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> | <a href="https://www.instagram.com/srart_24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF00FF.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> | 
-|-------------|-------------|
-| <a href="https://chat.whatsapp.com/HoGPJ1Sa6024us5PioGWLU"><img src="https://img.shields.io/badge/Grup WhatsApp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"></a> | 
----------
-
-# SCRIPT 
----------
-
-<p align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srart24&repo=SeTaN-BoT&theme=highcontrast)](https://github.com/srart24/SeTaN-BoT)
-
 </p>
 
 ---------
