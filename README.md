@@ -29,7 +29,7 @@
 
 | [![Saya](https://github.com/srart_24.png?size=100)](https://github.com/srart_24) | [![Hm](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![lm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
-| srart_24 | Dellas | Siegrin | Lendra | Jem_Bot |
+| srart_24 | Dellas | Siegrin | Lendra | Jem_Bot | 
 
 ---------
 
