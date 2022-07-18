@@ -7,6 +7,11 @@
 ---------
 
 
+pp align="center"> <a href="https://github.com/srart24/github-readme-stats"> <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` --> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" / </p>
+
+
+---------
+
 <p align="center">
 
 ![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif)
