@@ -49,11 +49,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" /
   </p>
-   
-  <p align="center">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=srart24&label=VIEWS&style=flat-square&color=blue" />
-</p>
 
 ---------
 ![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)
