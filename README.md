@@ -50,6 +50,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" /
   </p>
 
----------
-![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24)
---------
