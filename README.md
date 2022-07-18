@@ -6,10 +6,6 @@
 
 ---------
 
-### 
---------- ![ggwp](https://i.ibb.co/GJhM0sW/electric.gifttps://github.com/srart24) -------
-
----------
 
 <p align="center">
 
