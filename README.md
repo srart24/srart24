@@ -12,8 +12,7 @@
 
 <p align="center">
 
-![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif)
-![srart](https://i.ibb.co/pWxf9bN/1200px-Cat-Laptop-Idil-Keysan-Wikimedia-Giphy-stickers-2019.gif)
+![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif
 
 <p align="center">
   
