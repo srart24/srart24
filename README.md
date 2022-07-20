@@ -25,8 +25,8 @@
 
 | <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
----------
-### MY TEAM
+
+
 ---------
 
 | [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart_24) | [![Hm](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![lm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
