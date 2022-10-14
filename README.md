@@ -13,17 +13,9 @@
 
 ---------
 
-<p align="center">
-
-![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif)
-
-<p align="center">
-  
-</p>
-
 ---------
 
-| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+| <a href="https://github.com/srart24/Botzcx"><img src="https://img.shields.io/badge/《 BOT WhatsApp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 
 
