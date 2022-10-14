@@ -6,20 +6,23 @@
 
 ---------
 
+<p align="center">
   </a>
   <img src="https://komarev.com/ghpvc/?username=srart24&label=View&style=flat-square&color=blue" />
+</p>
 
 ---------
 
 | <a href="https://github.com/srart24/Botzcx"><img src="https://img.shields.io/badge/《 BOT WhatsApp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 
+
 ---------
-<p align="center">
+
 | [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart_24) | [![Hm](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![lm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
 | srart24 | Dellas | Siegrin | Lendra | Jem_Bot | 
-</p>
+
 ---------
 
 
@@ -38,4 +41,3 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srart24&layout=compact&theme=material-palenight" /
   </p>
-
