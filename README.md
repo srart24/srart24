@@ -7,22 +7,34 @@
 ---------
 
 <p align="center">
- </a>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=srart24&label=View&style=flat-square&color=blue" />
 </p>
 
 ---------
 
+<p align="center">
 
-| <a href="https://github.com/srart24/Botzcx"><img src="https://img.shields.io/badge/《 Script BoT 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+![yay](https://i.ibb.co/YRTWMpm/8881444f23794650da1fe33c1bed39e0.gif)
+
+<p align="center">
+  
+</p>
+
+---------
+
+| <a href="https://github.com/srart24/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
-|<a href="https://srart24-canvas.herokuapp.com"><img src="https://img.shields.io/badge/《 Rest Api 》-000000?style=for-the-badge&logo=api&logoColor=white"></a> | 
----------|
-| [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart24) | [![Hm](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![hm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![hm](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
+
+
+---------
+
+| [![Saya](https://github.com/srart24.png?size=100)](https://github.com/srart_24) | [![Hm](https://github.com/itsmedell.png?size=100)](https://github.com/itsmedell) | [![hm](https://github.com/siegrin.png?size=100)](https://github.com/siegrin) | [![lm](https://github.com/lendradxx.png?size=100)](https://github.com/lendradxx) | [![Sya](https://github.com/Jem-Bot.png?size=100)](https://github.com/Jem-Bot) |
 |------|------|------|------|------|
 | srart24 | Dellas | Siegrin | Lendra | Jem_Bot | 
 
 ---------
+
 
 ## &#x1f4c8; GitHub Stats
 
