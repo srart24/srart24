@@ -16,6 +16,9 @@
 | <a href="https://github.com/srart24/Botzcx"><img src="https://img.shields.io/badge/《 BOT WhatsApp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 
+| <a href="https://srart24.up.railway.app"><img src="https://img.shields.io/badge/《 REST API 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+|---------|
+
 
 ---------
 
